@@ -17,11 +17,12 @@ The repository is organized into five main folders:
    
 
 4. `MARL_conflict`: Contains example of MARL algorithms for the conflict scenario, with one subfolder:
+   
    - `agent4device8_dr0.4`: The conflict graph of 4 agents in a symmetric deployment (Fig 2 in paper)
 
    <img src="./figure/conflict_graph.png" width="500" />
 
-5. `reward_learning_curve`: Contains the example of plotting learning curve of Fig. 12, 13 in paper 
+6. `reward_learning_curve`: Contains the example of plotting learning curve of Fig. 12, 13 in paper 
    <img src="./figure/learning_curve.png" width="500" />
 ## Getting Started
 
