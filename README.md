@@ -85,6 +85,7 @@ If you find any part of this codebase useful in your research, please cite our p
 ## Additional Information
 The workflow of our MARL framework is described in the following figure:
 <img src="./figure/workflow.png" width="900" />
+
 For detailed methodology and results interpretation, please refer to our paper. 
 
 ## License
