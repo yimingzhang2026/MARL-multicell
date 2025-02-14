@@ -12,7 +12,7 @@ The repository is organized into five main folders:
    - `cell19link57_dr20_hexa`: Network configuration with 19 cells serving 57 devices in a regular deployment (Fig. 6(a) in paper)
    - `cell19link57_dr20_random`: Network configuration with 19 cells serving 57 devices in a random deployment (Fig. 6(b) in paper)
    <p float="left">
-  <img src="./figure/57links_hexa.png" width="500" /><img src="./figure/57links_random.png" width="500" /> 
+   <img src="./figure/57links_hexa.png" width="500" /><img src="./figure/57links_random.png" width="500" /> 
    </p>
    
 
@@ -22,7 +22,7 @@ The repository is organized into five main folders:
    <img src="./figure/conflict_graph.png" width="500" />
 
 5. `reward_learning_curve`: Contains the example of plotting learning curve of Fig. 12, 13 in paper 
-
+   <img src="./figure/learning_curve.png" width="500" />
 ## Getting Started
 
 The required packages can be found in requirement.txt file.
@@ -85,6 +85,7 @@ If you find any part of this codebase useful in your research, please cite our p
 ## Additional Information
 The workflow of our MARL framework is described in the following figure:
 <img src="./figure/workflow.png" width="900" />
+
 For detailed methodology and results interpretation, please refer to our paper. 
 
 ## License
