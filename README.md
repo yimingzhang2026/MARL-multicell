@@ -1,6 +1,17 @@
 # Multi-Agent Reinforcement Learning for Multi-Cell Spectrum and Power Allocation
 
-This repository contains the implementation of our work: Multi-Agent Reinforcement Learning (MARL) based spectrum and power allocation in multi-cell networks.
+This repository contains the implementation of our work: Multi-Agent Reinforcement Learning (MARL) based spectrum and power allocation in multi-cell networks. If you find any part of this codebase useful in your research, please cite our paper:
+
+```bibtex
+@article{zhang2025multiagent,
+  title={Multi-Agent Reinforcement Learning for Multi-Cell Spectrum and Power Allocation},
+  author={Zhang, Yiming and Guo, Dongning},
+  journal={IEEE Transactions on Communications},
+  year={2025},
+  publisher={IEEE},
+  doi={10.1109/TCOMM.2025.3534565},
+  issn={0090-6778}
+}
 
 ## Repository Structure
 
@@ -67,20 +78,7 @@ To generate packet delay results (Fig. 8, Fig. 9, and Fig 10):
 1. Navigate to the corresponding directory
 2. Run: `python generate_cluster.py`
 <img src="./figure/results_cluster.png" width="600" />
-## Citation
 
-If you find any part of this codebase useful in your research, please cite our paper:
-
-```bibtex
-@article{zhang2025multiagent,
-  title={Multi-Agent Reinforcement Learning for Multi-Cell Spectrum and Power Allocation},
-  author={Zhang, Yiming and Guo, Dongning},
-  journal={IEEE Transactions on Communications},
-  year={2025},
-  publisher={IEEE},
-  doi={10.1109/TCOMM.2025.3534565},
-  issn={0090-6778}
-}
 ```
 ## Additional Information
 The workflow of our MARL framework is described in the following figure:
