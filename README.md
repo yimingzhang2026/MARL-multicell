@@ -12,6 +12,7 @@ This repository contains the implementation of our work: Multi-Agent Reinforceme
   doi={10.1109/TCOMM.2025.3534565},
   issn={0090-6778}
 }
+```
 
 ## Repository Structure
 
@@ -79,7 +80,7 @@ To generate packet delay results (Fig. 8, Fig. 9, and Fig 10):
 2. Run: `python generate_cluster.py`
 <img src="./figure/results_cluster.png" width="600" />
 
-```
+
 ## Additional Information
 The workflow of our MARL framework is described in the following figure:
 <img src="./figure/workflow.png" width="900" />
